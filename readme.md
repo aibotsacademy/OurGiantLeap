@@ -1,7 +1,7 @@
-# 🤖 [NASA Space Apps 2020](https://nasaspaceappscr.globalhackathons.co/) 🛰️ 
-### Intro a los APIs de la NASA: Datos de Observación de la Tierra, Imágenes Satelitales, Clima, Misión Rover en Marte.
-###### Organizado por Global Hackathons con apoyo de Comisión Aeroespacial y Local Leads de Space Apps en México, Costa Rica.
-###### ||Fuente de Datos: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
+# 🤖 [Our Giant Leap Hackathon](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
+### How can space technology and know-how help make a leap forward towards gender equality on Earth?
+###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
+###### ||Resources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
 
 ###### ||Competencia Mundial 🌎 || Desafíos Globales 2020: Observar, Informar, Un Futuro Sostenible, Confrontar, Crear o Crea tu propio reto! ||
 
