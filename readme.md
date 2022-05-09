@@ -4,9 +4,11 @@
 [![Pitch](https://img.youtube.com/vi/pErzslMIl68/0.jpg)](https://youtu.be/pErzslMIl68)
 
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
+
+###### ||Global competition 🌎 ||build solutions for their communities main challenges to achieve gender equality, by using Space Techs. ||
+
 ###### ||Resources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
 
-###### ||Competencia Mundial 🌎 || Desafíos Globales 2020: Observar, Informar, Un Futuro Sostenible, Confrontar, Crear o Crea tu propio reto! ||
 
 #### En este Taller aprenderemos sobre el uso de APIs de la NASA para visualizar datos como: Imágenes Satelitales y de Observación de la Tierra, entre muchos otros más! 
 
