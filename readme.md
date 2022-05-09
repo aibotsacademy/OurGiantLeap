@@ -1,13 +1,14 @@
 # 🤖 [Our Giant Leap Hackathon](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
 ### How can space technology and know-how help make a leap forward towards gender equality on Earth?
+
+[![Pitch](https://img.youtube.com/vi/pErzslMIl68/0.jpg)](https://youtu.be/pErzslMIl68)
+
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
 ###### ||Resources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
 
 ###### ||Competencia Mundial 🌎 || Desafíos Globales 2020: Observar, Informar, Un Futuro Sostenible, Confrontar, Crear o Crea tu propio reto! ||
 
 #### En este Taller aprenderemos sobre el uso de APIs de la NASA para visualizar datos como: Imágenes Satelitales y de Observación de la Tierra, entre muchos otros más! 
-
-[![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
 
 
 #### Manos a la obra!
@@ -201,6 +202,8 @@ Con acceso a estos datos, crea una Aplicación o un modelo de impacto mundial!
 [Earth Observation](https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
 )
 [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers#GIBSAPIforDevelopers-ImageryAPI/Services)
+
+[![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
 
 
 ### Terms of Use:
