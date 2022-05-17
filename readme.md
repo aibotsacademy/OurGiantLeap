@@ -23,17 +23,11 @@
 - Github Pages
 - Glitch
 
-###### ||Agriculture|| 
+> Agriculture 🌾
 
-- 1
-- 2
-- 3
+- [Global Forest Watch](#)
+- [Open Street Maps](#)
 
-###### ||Space Commerce|| 
-
-- 1
-- 2
-- 3
 
 ###### ||(n) topic|| 
 
@@ -49,6 +43,9 @@ Glossary:
 ***MODIS (or Moderate Resolution Imaging Spectroradiometer)***: es un instrumento clave a bordo de los satélites Terra (originalmente conocido como EOS AM-1) y Aqua (originalmente conocido como EOS PM-1). 
 
 +Tutorials:
+- Get started with NASA Open APIs:
+[![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
+
 - Intro to Web Development & NASA API: Mars Rover Photos!
  Creado por Brandon Escamilla, Space Apps Lead en México
 
@@ -68,7 +65,6 @@ Glossary:
 )
 [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers#GIBSAPIforDevelopers-ImageryAPI/Services)
 
-[![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
 
 
 ### Contributors:
