@@ -56,7 +56,7 @@ Created by Leo Camacho, NASA Space Apps Lead in San Jose.
 Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 
 
-### Resources: 
+### +Resources: 
 
 - [Satelite Terra](https://terra.nasa.gov/about/terra-instruments/modis)
 
