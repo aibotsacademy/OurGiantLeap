@@ -23,10 +23,6 @@
 ###### 👾 3D Prototyping:
 - [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
 
-###### 🌐 Web Apps:
-- Github Pages
-- Glitch
-
 > Agriculture 🌾
 
 - [Global Forest Watch](https://www.globalforestwatch.org/) offers free, real-time data, technology and tools for monitoring the world's forests.
