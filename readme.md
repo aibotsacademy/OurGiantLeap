@@ -8,6 +8,9 @@
 
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
 
+### Context:
+
+"Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world." ([UN,2022](https://www.un.org/sustainabledevelopment/gender-equality/)) 
 
 #### Resources by Topic: 
 
