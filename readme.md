@@ -45,11 +45,16 @@ Glossary:
 - Get started with NASA Open APIs:
 
 [![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
+Created by Leo Camacho, NASA Space Apps Lead in San Jose.
+
 
 - Intro to Web Development & NASA API: Mars Rover Photos!
- Creado por Brandon Escamilla, Space Apps Lead en México
+ 
+[![Brandon Escamilla](https://img.youtube.com/vi/KcyGr_onNiM/0.jpg)](https://youtu.be/KcyGr_onNiM)
 
-[![Brandon Escamilla](https://img.youtube.com/vi/KcyGr_onNiM/1.jpg)](https://youtu.be/KcyGr_onNiM)
+Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
+
+
 
 +Resources:
 
