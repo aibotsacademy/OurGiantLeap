@@ -18,7 +18,7 @@
 
 ###### 📍 GPS control & NFC:
 - Get user [Geolocation](https://developers.google.com/maps/documentation/javascript/examples/map-geolocation#maps_map_geolocation-html)
-- [NFC Ring](https://www.larepublica.net/noticia/emprendedores-ticos-desarrollan-alarma-silenciosa-mediante-un-anillo-con-chip) 
+- Silent Alarm through [NFC Ring](https://buildtech.medium.com/emprendedores-costarricenses-desarrollan-alarma-silenciosa-para-combatir-la-inseguridad-en-las-3411e10197fd) 
 
 ###### 👾 3D Prototyping:
 - [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
