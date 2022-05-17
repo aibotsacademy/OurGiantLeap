@@ -21,7 +21,7 @@
 - [NFC Ring](https://www.larepublica.net/noticia/emprendedores-ticos-desarrollan-alarma-silenciosa-mediante-un-anillo-con-chip) 
 
 ###### 👾 3D Prototyping:
-- Thinkercad
+- [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
 
 ###### 🌐 Web Apps:
 - Github Pages
