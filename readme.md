@@ -41,10 +41,11 @@ Glossary:
 
 ***MODIS (or Moderate Resolution Imaging Spectroradiometer)***: es un instrumento clave a bordo de los satélites Terra (originalmente conocido como EOS AM-1) y Aqua (originalmente conocido como EOS PM-1). 
 
-+Tutorials:
+### Tutorials:
 - Get started with NASA Open APIs:
 
 [![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
+
 Created by Leo Camacho, NASA Space Apps Lead in San Jose.
 
 
@@ -55,8 +56,7 @@ Created by Leo Camacho, NASA Space Apps Lead in San Jose.
 Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 
 
-
-+Resources:
+### Resources: 🚀
 
 [Satelite Terra](https://terra.nasa.gov/about/terra-instruments/modis)
 
