@@ -9,7 +9,7 @@
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
 
 
-###### ||Resources:|| 
+#### Resources by Topic: 
 
 > Women Safety ✊
 
