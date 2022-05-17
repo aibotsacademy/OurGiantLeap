@@ -1,38 +1,60 @@
-# 🤖 [Our Giant Leap Hackathon](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
+# 🤖 [Our Giant Leap Hackathon 2022](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
+
 ### How can space technology and know-how help make a leap forward towards gender equality on Earth?
+###### ||Global competition: 🌎 Build solutions for your communities main challenges to achieve gender equality, by using Space Tech. ||
+
 
 [![Pitch](https://img.youtube.com/vi/pErzslMIl68/0.jpg)](https://youtu.be/pErzslMIl68)
 
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
 
-###### ||Global competition 🌎 ||Build solutions for your communities main challenges to achieve gender equality, by using Space Techs. ||
 
-###### ||Resources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
+###### ||Resources:|| 
 
-APPLY:
+> Women Safety ✊
 
-- possible issues to address:
-- Gender equality in farming: 
-- The high price of collecting water: 
-- Child marriage and other forms of gender-based violences: 
-- Better access to public sanitation and healthcare: 
+###### 📍 GPS control & NFC:
+- Get user [Geolocation](https://developers.google.com/maps/documentation/javascript/examples/map-geolocation#maps_map_geolocation-html)
+
+###### 👾 3D Prototyping:
+- Thinkercad
+
+###### 🌐 Web Apps:
+- Github Pages
+- Glitch
+
+###### ||Agriculture|| 
+
+- 1
+- 2
+- 3
+
+###### ||Space Commerce|| 
+
+- 1
+- 2
+- 3
+
+###### ||(n) topic|| 
+
+
+- [Gender equality in farming](#), 
+- [The high price of collecting water](#).  
+- [Better access to public sanitation and healthcare:](#), 
+- [Child marriage and other forms of gender-based violences](#),  
 
 
 Glossary:
 
 ***MODIS (or Moderate Resolution Imaging Spectroradiometer)***: es un instrumento clave a bordo de los satélites Terra (originalmente conocido como EOS AM-1) y Aqua (originalmente conocido como EOS PM-1). 
 
-
-> What's next? El Reto!
-Con acceso a estos datos, crea una Aplicación o un modelo de impacto mundial!
-
 +Tutorials:
 - Intro to Web Development & NASA API: Mars Rover Photos!
-- Creado por Brandon Escamilla, Space Apps Lead en México
+ Creado por Brandon Escamilla, Space Apps Lead en México
 
 [![Brandon Escamilla](https://img.youtube.com/vi/KcyGr_onNiM/1.jpg)](https://youtu.be/KcyGr_onNiM)
 
-+Recursos:
++Resources:
 
 [Satelite Terra](https://terra.nasa.gov/about/terra-instruments/modis)
 
@@ -49,5 +71,8 @@ Con acceso a estos datos, crea una Aplicación o un modelo de impacto mundial!
 [![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
 
 
-### Terms of Use:
-This repo created by OGL Team relies on a publicly accessible services.
+### Contributors:
+- Maelyls Beliazi
+- Leandro Camacho
+- Benjamin Greaves 
+- Antony Ramírez
