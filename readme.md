@@ -56,23 +56,23 @@ Created by Leo Camacho, NASA Space Apps Lead in San Jose.
 Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 
 
-### Resources: 🚀
+### Resources: 
 
-[Satelite Terra](https://terra.nasa.gov/about/terra-instruments/modis)
+- [Satelite Terra](https://terra.nasa.gov/about/terra-instruments/modis)
 
-[MODIS](https://modis.gsfc.nasa.gov/data/)
+- [MODIS](https://modis.gsfc.nasa.gov/data/)
  
-[Open Layers](https://openlayers.org/)
+- [Open Layers](https://openlayers.org/)
 
-[Earth Data Layers](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products)
+- [Earth Data Layers](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+Available+Imagery+Products#expand-CorrectedReflectance17Products)
  
-[Earth Observation](https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
+- [Earth Observation](https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
 )
-[GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers#GIBSAPIforDevelopers-ImageryAPI/Services)
+- [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers#GIBSAPIforDevelopers-ImageryAPI/Services)
 
 
 
-### Contributors:
+### Contributors: 🚀
 - Maelyls Beliazi
 - Leandro Camacho
 - Benjamin Greaves 
