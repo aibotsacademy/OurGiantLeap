@@ -29,7 +29,7 @@
 - [Open Street Maps](#)
 
 
-###### ||(n) topic|| 
+> ||(n) topic|| 
 
 
 - [Gender equality in farming](#), 
@@ -44,6 +44,7 @@ Glossary:
 
 +Tutorials:
 - Get started with NASA Open APIs:
+
 [![Pitch](https://img.youtube.com/vi/6D3bOMDwhJA/0.jpg)](https://youtu.be/Jn-0g8E-uLw)
 
 - Intro to Web Development & NASA API: Mars Rover Photos!
