@@ -2,6 +2,8 @@
 ### How can space technology and know-how help make a leap forward towards gender equality on Earth?
 ###### ||Global competition: 🌎 Build solutions for your communities main challenges to achieve gender equality and empower all women and girls by using Space Tech. ||
 
+###### This repo provides an overview of resources that can help participants of OGL Hackathon to get started using space tech applied to gender equiality.
+
 [![Pitch](https://img.youtube.com/vi/pErzslMIl68/0.jpg)](https://youtu.be/pErzslMIl68)
 
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
