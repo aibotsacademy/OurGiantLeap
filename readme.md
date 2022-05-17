@@ -25,12 +25,11 @@
 
 > Agriculture 🌾
 
-- [Global Forest Watch](#)
-- [Open Street Maps](#)
+- [Global Forest Watch](https://www.globalforestwatch.org/) offers free, real-time data, technology and tools for monitoring the world's forests.
+- [Open Street Maps](https://www.openstreetmap.org/) is a collaborative project to create a free editable geographic database of the world.
 
 
 > ||(n) topic|| 
-
 
 - [Gender equality in farming](#), 
 - [The high price of collecting water](#).  
